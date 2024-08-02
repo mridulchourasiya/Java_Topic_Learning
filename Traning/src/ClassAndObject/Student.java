@@ -7,7 +7,7 @@ class Student{
     private double grade;
 
     // Constructor
-    public Student(String name, int age, double grade) {
+    public Student() {
         this.name = name;
         this.age = age;
         this.grade = grade;
